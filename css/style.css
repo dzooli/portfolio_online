@@ -1,0 +1,36 @@
+.navbar-brand {
+  color: black;
+}
+
+p {
+  font-family: calibri;
+  width: 400px;
+}
+
+.wrap {
+  margin-top: 60px;
+}
+
+.btn {
+  padding: 15px 20px 15px 20px;
+  background-color: dodgerblue;
+  border-radius: 5px;
+  margin-top: 12px;
+}
+
+.form-group {
+  display: flex;
+}
+
+.card-form {
+  max-width: 50%;
+}
+
+.flexcontainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.flexauto {
+  flex: auto;
+}
